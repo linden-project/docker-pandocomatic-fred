@@ -1,3 +1,5 @@
+We're using [Quarto](https://quarto.org/) now.
+
 # Docker Pandocomatic Plus
 
 This Docker images has all tools to create beautiful PDF's from markdown files using Pandoc and Latex. Designed to be used with CI pipelines.
